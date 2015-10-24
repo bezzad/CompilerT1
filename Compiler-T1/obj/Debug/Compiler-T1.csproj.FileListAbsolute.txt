@@ -1,0 +1,27 @@
+E:\Compiler-T1\Compiler-T1\bin\Debug\Compiler-T1.exe
+E:\Compiler-T1\Compiler-T1\bin\Debug\Compiler-T1.pdb
+E:\Compiler-T1\Compiler-T1\obj\Debug\ResolveAssemblyReference.cache
+E:\Compiler-T1\Compiler-T1\obj\Debug\Compiler_T1.MainForm.resources
+E:\Compiler-T1\Compiler-T1\obj\Debug\Compiler_T1.Properties.Resources.resources
+E:\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.csproj.GenerateResource.Cache
+E:\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.exe
+E:\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.pdb
+E:\Compiler-T1\Compiler-T1\bin\Debug\Compiler-T1.exe.config
+E:\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.exe.licenses
+E:\Compiler-T1\Compiler-T1\obj\Debug\Compiler_T1.DesignForm.resources
+E:\Compiler-T1\Compiler-T1\obj\Debug\Compiler_T1.AboutForm.resources
+E:\Education\Visual Studio Code\Compiler-T1\Compiler-T1\bin\Debug\Compiler-T1.exe.config
+E:\Education\Visual Studio Code\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.exe
+E:\Education\Visual Studio Code\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.pdb
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\bin\Debug\Compiler-T1.exe.config
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.exe
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.pdb
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\obj\Debug\ResolveAssemblyReference.cache
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\obj\Debug\Compiler_T1.AboutForm.resources
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\obj\Debug\Compiler_T1.DesignForm.resources
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\obj\Debug\Compiler_T1.MainForm.resources
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\obj\Debug\Compiler_T1.Properties.Resources.resources
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.csproj.GenerateResource.Cache
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\obj\Debug\Compiler-T1.exe.licenses
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\bin\Debug\Compiler-T1.exe
+E:\Education\Visual Studio Code\My Programs\Compiler-T1\Compiler-T1\bin\Debug\Compiler-T1.pdb
